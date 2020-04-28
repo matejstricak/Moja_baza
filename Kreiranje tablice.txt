@@ -1,0 +1,10 @@
+CREATE TABLE kontakti
+(
+Id int,
+Ime varchar(50),
+Adresa varchar(200),
+Grad varchar (50),
+Email varchar(50),
+Spol char(2),
+Prijatelj char(2)
+);
